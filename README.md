@@ -13,17 +13,6 @@ This project demonstrates a well-structured HTML5 form with various input fields
 
 - `enhanced-form.html`: The main HTML file containing the form and structured content.
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/enhanced-form-example.git
-   ```
-2. Open `enhanced-form.html` in your web browser to view the form and its features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
